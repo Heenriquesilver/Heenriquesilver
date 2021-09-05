@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Heenriquesilver
-- 👀 I’m interested in meet new projects and learn width everyone
+- 👀 I’m interested in meet new projects and learn with everyone
 - 🌱 I’m currently learning JavaScript and how to use my github hahah
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : @heenriquesilver my instagram
