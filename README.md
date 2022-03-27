@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Heenriquesilver
 - 👀 I’m interested in meet new projects and learn with everyone
-- 🌱 I’m currently learning JavaScript and how to use my github hahah
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : @heenriquesilver my instagram
+- 🌱 (JS,TS,React) =>{ 
+-   <greatDeveloper/>
+- }
+- 📫 How to reach me : @heenriquesilver my instagram.
 
 <!---
 Heenriquesilver/Heenriquesilver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
