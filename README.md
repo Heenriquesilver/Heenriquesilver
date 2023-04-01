@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Heenriquesilver
-- 👀 I’m interested in meet new projects and learn with everyone
 - 🌱 (JS,TS,React) =>{ 
 -   <greatDeveloper/>
 - }
